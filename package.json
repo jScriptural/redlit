@@ -1,0 +1,30 @@
+{
+  "name": "redlit",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "redlit is a collection of common and useful utility functions in JavaScript.",
+  "main": "redlit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscriptural/redlit.git"
+  },
+  "keywords": [
+    "utility",
+    "functions",
+    "redlit",
+    "collection",
+    "useful"
+  ],
+  "author": {
+      "name": "John S. Isonguyo",
+      "email": "isongjohn014@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jscriptural/redlit/issues"
+  },
+  "homepage": "https://github.com/jscriptural/redlit#readme"
+}
